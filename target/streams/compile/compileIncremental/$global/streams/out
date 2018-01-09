@@ -1,0 +1,147 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/remi/Sites/del/src/main/scala/Main.scala, /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala, /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala, /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala, /Users/remi/Sites/del/src/main/scala/model/Path.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala, /Users/remi/Sites/del/src/main/scala/helper/MD5.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/remi/Sites/del/src/main/scala/Main.scala, /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala, /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala, /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala, /Users/remi/Sites/del/src/main/scala/model/Path.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala, /Users/remi/Sites/del/src/main/scala/helper/MD5.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/remi/Sites/del/src/main/scala/Main.scala, /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala, /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala, /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala, /Users/remi/Sites/del/src/main/scala/model/Path.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala, /Users/remi/Sites/del/src/main/scala/helper/MD5.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/Main.scala, /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala, /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala, /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala, /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala, /Users/remi/Sites/del/src/main/scala/model/Path.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala, /Users/remi/Sites/del/src/main/scala/helper/MD5.scala, /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 11 sources: invalidated sources (11) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 11 Scala sources to /Users/remi/Sites/del/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.3[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.12.3. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.3  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_640e7267[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_da39a6f7/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/Users/remi/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.3.jar:/Users/remi/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar:/Users/remi/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/remi/.ivy2/cache/jline/jline/jars/jline-2.14.4.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/qd/tm3stvld02lfv7f87qzxbg0m0000gn/T/sbt_3098186/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 8.539 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 290176fc, interfacing (CompilerInterface) with Scala compiler version 2.12.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/Sites/del/target/scala-2.12/classes:/Users/remi/.ivy2/cache/com.github.rlavolee/uncle-b/jars/uncle-b-v1.0.0.jar:/Users/remi/.ivy2/cache/org.parboiled/parboiled_2.12/jars/parboiled_2.12-2.1.4.jar:/Users/remi/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar:/Users/remi/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar:/Users/remi/.ivy2/cache/com.typesafe.play/play-json_2.12/jars/play-json_2.12-2.6.3.jar:/Users/remi/.ivy2/cache/com.typesafe.play/play-functional_2.12/jars/play-functional_2.12-2.6.3.jar:/Users/remi/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar:/Users/remi/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar:/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.9.jar:/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.9.jar:/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar:/Users/remi/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.8.9.jar:/Users/remi/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 13.284201421 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/helper/BigEndian.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	productPrefix$extension, notify, unapply, productArity$extension, copy$extension, wait, $asInstanceOf, productArity, equals, BigEndian, asInstanceOf, synchronized, $isInstanceOf, productIterator$extension, canEqual, productPrefix, canEqual$extension, notifyAll, isInstanceOf, <init>, apply, copy$default$1$extension, ==, clone, equals$extension, $init$, copy, toString, toString$extension, !=, getClass, copy$default$1, productElement$extension, ne, hashCode$extension, value, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala: Set(BigEndian, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/Path.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/Path.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/Path.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/Path.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/Path.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	productPrefix$extension, notify, unapply, productArity$extension, copy$extension, wait, $asInstanceOf, productArity, equals, Path, asInstanceOf, synchronized, $isInstanceOf, productIterator$extension, canEqual, productPrefix, canEqual$extension, notifyAll, isInstanceOf, <init>, apply, copy$default$1$extension, ==, clone, equals$extension, $init$, copy, toString, toString$extension, !=, getClass, copy$default$1, productElement$extension, ne, hashCode$extension, value, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/Main.scala: Set(Path, <init>, apply)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala: Set(Path, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, value, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerRequest.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, Started, infoHash, wait, copy$default$2, $asInstanceOf, copy$default$5, noPeerId, productArity, equals, Event, event, copy$default$9, Stopped, peerId, asInstanceOf, synchronized, left, Completed, defaultNumPeers, $isInstanceOf, copy$default$8, canEqual, copy$default$4, productPrefix, notifyAll, <init>$default$10, isInstanceOf, <init>, port, apply, Empty, uploaded, ==, clone, copy$default$7, copy$default$10, numwant, $init$, apply$default$10, copy$default$3, copy, toString, downloaded, !=, getClass, copy$default$1, copy$default$6, ne, eq, productIterator, ##, finalize, productElement, hashCode, compact, TrackerRequest.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/helper/MD5.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/helper/MD5.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/helper/MD5.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/helper/MD5.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/helper/MD5.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, apply, MD5, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala: Set(asInstanceOf, isInstanceOf, apply, MD5, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, Main, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/helper/Encoding.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/helper/Encoding.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/helper/Encoding.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, Encoding, notifyAll, isInstanceOf, utf8, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala: Set(asInstanceOf, Encoding, isInstanceOf, utf8, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala: Set(asInstanceOf, Encoding, isInstanceOf, utf8, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/helper/SHA1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/helper/SHA1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/helper/SHA1.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, apply, ==, clone, toString, !=, getClass, ne, eq, SHA1, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala: Set(asInstanceOf, isInstanceOf, apply, ==, toString, eq, SHA1)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, announce, wait, apply$default$4, copy$default$2, $asInstanceOf, copy$default$5, productArity, equals, asInstanceOf, apply$default$7, synchronized, <init>$default$7, $isInstanceOf, <init>$default$4, Metainfo, canEqual, copy$default$4, encoding, productPrefix, announceList, info, notifyAll, isInstanceOf, <init>, apply, ==, clone, comment, copy$default$7, $init$, createdBy, creationDate, copy$default$3, copy, toString, !=, getClass, copy$default$1, copy$default$6, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	format.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /Users/remi/Sites/del/src/main/scala/model/metainfo/Info.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/remi/Sites/del/src/main/scala/Main.scala[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/remi/Sites/del/src/main/scala/model/metainfo/Metainfo.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	format.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	format.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /Users/remi/Sites/del/src/main/scala/model/tracker/Peer.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/remi/Sites/del/src/main/scala/model/tracker/TrackerResponse.scala[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

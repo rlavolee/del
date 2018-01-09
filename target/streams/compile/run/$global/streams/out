@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/Sites/del/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.github.rlavolee/uncle-b/jars/uncle-b-v1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.parboiled/parboiled_2.12/jars/parboiled_2.12-2.1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.typesafe.play/play-json_2.12/jars/play-json_2.12-2.6.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.typesafe.play/play-functional_2.12/jars/play-functional_2.12-2.6.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/remi/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.8.9.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1b to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1b exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
